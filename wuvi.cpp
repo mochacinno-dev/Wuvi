@@ -197,6 +197,10 @@ x = <<- 42
 58 x
 flag = <<>> <<>>
 58 flag
+msg2 = >>+> Goodbye
+58 msg2
+y = >>+>> 4.0
+58 y
 )";
 
     cout << "Wuvi Interpreter" << endl;
